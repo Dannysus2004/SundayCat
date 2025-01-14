@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/ThirdPerson/Maps/Days.umap
+Content/Meg/AI/BP_MainCharacter.uasset
